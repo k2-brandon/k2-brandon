@@ -1,9 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Brandon Velásquez</h1>
 
-<a target="_blank" href="https://portfolio-brandon-velsquezs-projects.vercel.app/"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
-
 <p align="center">
-	<a href="https://github.com/k2-brandon">
+	<a href="https://portfolio-brandon-velsquezs-projects.vercel.app/">
 		<img src="https://media.licdn.com/dms/image/v2/D4E16AQEew_V77VtZkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721792438648?e=1754524800&v=beta&t=Fv20iBPpHiunR0GEJPVHmAQKa-WC8szWL0EGkV1s-rk">
 	</a>
 </p>
